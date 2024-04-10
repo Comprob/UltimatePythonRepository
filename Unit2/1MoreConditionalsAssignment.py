@@ -1,5 +1,6 @@
-# print("########## 2.1.1 ##########")
+# print("########## 2.2.1 ##########")
 
+<<<<<<< HEAD
 # word=input ("please type a word: ")
 # print(len("There are a total of:" + word))
 # print ("thank you")
@@ -27,9 +28,17 @@
 #     print( str (nu1) + " is bigger than " +  str (nu2))
 # else:
 #     print("The numbers are equal!")
+=======
+# print("########## 2.2.2 ##########")
 
-# print("########## 2.1.5 ##########")
+# print("########## 2.2.3 ##########")
 
+# print("########## 2.2.4 ##########")
+>>>>>>> ed69335c68271aedf58261acbb53bcb1bf86fca6
+
+# print("########## 2.2.5 ##########")
+
+<<<<<<< HEAD
 # print ("Person 1")
 # name1=input ("name: ")
 # n1=int (input("age: "))
@@ -53,3 +62,6 @@
 #     print (word2 + " comes alphabetically last")
 # else:
 #     print("you gave the same word twice")
+=======
+# print("########## 2.2.6 ##########")
+>>>>>>> ed69335c68271aedf58261acbb53bcb1bf86fca6
