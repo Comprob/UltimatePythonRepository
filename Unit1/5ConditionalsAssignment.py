@@ -79,3 +79,4 @@ if temp >=0:
 if rain=="yes" :
     print("I think gloves are in order")  
     print("Don't forget your umbrella!")
+
