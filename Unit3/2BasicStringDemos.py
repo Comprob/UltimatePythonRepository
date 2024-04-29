@@ -15,13 +15,13 @@
 
 # print(repeated)
 
-# len of a string to underline a word
+# # len of a string to underline a word
 # word = input("Please type in a word: ")
 # print(word)
 # numletters = len(word)
 # print("-" * numletters)
 
-# indexing to get individual characters
+# # indexing to get individual characters
 word = "demo"
 
 # get 1st, 2nd, 3rd... letters
