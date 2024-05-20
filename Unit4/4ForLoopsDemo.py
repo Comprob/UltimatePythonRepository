@@ -1,10 +1,10 @@
 items = [2, 5, 1, 2, 3]
 
-# print all items on a separate line using while loop
-# index = 0
-# while index < len(items):
-#     print(items[index])
-#     index += 1
+
+index = 0
+while index < len(items):
+    print(items[index])
+    index += 1
 
 # print all items on a separate line using for loop
 # for number in items:
